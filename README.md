@@ -1,9 +1,10 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm Nivedita!
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nivedita!
 
 
+### About Me🚀
 
-
-- 🔭 I’m currently working on 
+- 🎓 I’m an Open-Source enthusiast & sophomre student pursuing Bachelors in Computer Science & Engineering from India.
+- 🔭 I’m currently working on Kubernetes and buliding my full stack web-development skills.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 👯 I’m love to collaborate on Open-Source projects.
 - 🤔 I’m looking for help with backend development.
