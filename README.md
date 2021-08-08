@@ -3,7 +3,7 @@
 
 ### About Me🚀
 
-- 🎓 I’m an Open-Source enthusiast & sophomre student pursuing Bachelors in Computer Science & Engineering from India.
+- 🎓 I’m an Open-Source enthusiast & sophomore student pursuing Bachelors in Computer Science & Engineering from India.
 - 🔭 I’m currently working on Kubernetes and buliding my full stack web-development skills.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 👯 I love to collaborate on Open-Source projects.
