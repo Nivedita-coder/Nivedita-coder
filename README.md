@@ -3,7 +3,7 @@
 
 ### About Me🚀
 
-- 🎓 I’m an Open-Source enthusiast & a junior pursuing Bachelors in Computer Science & Engineering from India.
+- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 - 🌱 Learning more about and studying: Distributed Systems, Golang, Java, Open Source, CS Algorithms.
 - 👯 I love to collaborate on Open-Source projects.
 - 💬 Ask me about books, best resources for learning Computer Science, research roadmap.
