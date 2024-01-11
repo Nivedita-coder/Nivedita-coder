@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nivedita!
+# Hey there! 👋 I'm Nivedita!
 
 
 ### About Me🚀
